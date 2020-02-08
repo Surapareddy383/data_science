@@ -1,0 +1,15 @@
+{
+ "name":"sai sreekanth reddy"  ,
+ "roll.no":"168x1a0383",
+    "data":{"clg":"khit","branch":"mechanical"}
+    "education":{["ssc":{"name":"kondaveedu public school",
+                        "board":"state board",
+                        "marks":9.3}
+                "inter":{"name":"sri chaitanya vidyala junior clg",
+                         "board":"bieap",
+                         "marks":906}
+                "btech":{"name":"khit",
+                         "board":"jntuk",
+                         "marks":"7.5"}
+                  ]}
+}
